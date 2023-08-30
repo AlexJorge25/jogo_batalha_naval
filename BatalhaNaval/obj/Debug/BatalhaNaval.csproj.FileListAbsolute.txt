@@ -5,3 +5,11 @@ C:\Users\aluno\source\repos\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.csp
 C:\Users\aluno\source\repos\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.CoreCompileInputs.cache
 C:\Users\aluno\source\repos\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.exe
 C:\Users\aluno\source\repos\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.pdb
+C:\Users\aluno\Desktop\Projetoscodigos\BatalhaNaval\BatalhaNaval\bin\Debug\BatalhaNaval.exe.config
+C:\Users\aluno\Desktop\Projetoscodigos\BatalhaNaval\BatalhaNaval\bin\Debug\BatalhaNaval.exe
+C:\Users\aluno\Desktop\Projetoscodigos\BatalhaNaval\BatalhaNaval\bin\Debug\BatalhaNaval.pdb
+C:\Users\aluno\Desktop\Projetoscodigos\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Projetoscodigos\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\Projetoscodigos\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Projetoscodigos\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.exe
+C:\Users\aluno\Desktop\Projetoscodigos\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.pdb

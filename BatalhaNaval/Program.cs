@@ -15,7 +15,6 @@ namespace BatalhaNaval
             
             string[,] grade = new string[11, 11];
             string[,] mapasecreto1 = new string[11, 11];
-            string tiro = "X";
             
             preencherMatriz(grade);
             mapasecreto(mapasecreto1);
@@ -67,10 +66,11 @@ namespace BatalhaNaval
                 }
                 Console.Clear();
             }
-            Console.WriteLine("Fim de jogo");
+            Console.WriteLine("fim do programa");
             Console.ReadKey();
         }
        
+
         
         static void preencherMatriz(string[,] matriz)
         {
@@ -84,6 +84,7 @@ namespace BatalhaNaval
             
 
         }
+
         static void listarMatriz(string[,] matriz)
         {
             Console.WriteLine("  0 1 2 3 4 5 6 7 8 9 10 ");
@@ -106,6 +107,7 @@ namespace BatalhaNaval
             }
             Console.WriteLine("==========================");
         }
+
         static void mapasecreto(string[,] matriz)
         {
             for (int linha = 0; linha < matriz.GetLength(0); linha++)
